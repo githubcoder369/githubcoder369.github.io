@@ -1,2 +1,5 @@
-# Learn-Web-Development
-Me learning how to develop web like i am a begineer just to master the learning skill
+# Web page information
+
+This (website)[https://githubcoder369.github.io/] was using github website publishing hence that's why its url is https://https://githubcoder369.github.io/
+
+It's purpose is for the owner of this repository to test how websites work when its hosted
